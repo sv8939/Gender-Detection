@@ -8,10 +8,15 @@ This project builds a deep learning pipeline to classify gender from facial imag
 The following Python libraries are required:
 
 numpy
+
 pandas
+
 opencv-python
+
 matplotlib
+
 tensorflow
+
 scikit-learn
 
 # Data Preprocessing
